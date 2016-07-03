@@ -1,0 +1,14 @@
+{
+  "name": "react-page-cache-demo",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0",
+    "react": "^15.2.0",
+    "react-dom": "^15.2.0",
+    "react-mounter": "^1.2.0",
+    "react-page-cache": "0.0.2"
+  }
+}
